@@ -1,3 +1,3 @@
 # firsthub
 firsthub
-Hello , AitSchool!
+Hi, AitSchool!
